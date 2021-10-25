@@ -1,0 +1,16 @@
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\Availity_01.exe
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\Availity_01.deps.json
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\Availity_01.runtimeconfig.json
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\Availity_01.runtimeconfig.dev.json
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\Availity_01.dll
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\ref\Availity_01.dll
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\bin\Debug\net5.0\Availity_01.pdb
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.csproj.AssemblyReference.cache
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.AssemblyInfoInputs.cache
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.AssemblyInfo.cs
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.csproj.CoreCompileInputs.cache
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.dll
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\ref\Availity_01.dll
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.pdb
+Y:\Personal\Resumes\2021 Job Hunt\Availity\Availity_01\Availity_01\obj\Debug\net5.0\Availity_01.genruntimeconfig.cache
